@@ -22,7 +22,7 @@ app.use(
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'admin',
-  password: 'Admin1234@2024',
+  password: '',
   database: 'learning_management',
 });
 
